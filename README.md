@@ -24,12 +24,12 @@ Core Libraries:
 - Seaborn
 
 ## Ordine di esecuzione dei file
-- 1. Preparazione dei Dati (Data Preparation): Ecommerce Order & Supply Chain Dataset Dataframe Cleansing.ipynb
-- 2. Database SQL (Data Storage): Ecommerce Order & Supply Chain SQL Table Creation Coding.pdf
+- 1. Preparazione dei Dati (Data Preparation): Ecommerce Order and Supply Chain Dataset Dataframe Cleansing.ipynb
+- 2. Database SQL (Data Storage): Ecommerce Order and Supply Chain SQL Table Creation Coding.pdf
 - 3. Analisi SQL (Data Extraction): Analisi con SQL Query.pdf
-- 4. Analisi con Pandas (Data Manipulation): Ecommerce Order & Supply Chain Dataset Dataframe Analysis in Pandas.ipynb
+- 4. Analisi con Pandas (Data Manipulation): Ecommerce Order and Supply Chain Dataset Dataframe Analysis in Pandas.ipynb
 - 5. Visualizzazione (Data Visualization): Grafica delle presentazioni, le foto in allegato
-- 6. Report Finale (Presentazione): Ecommerce Order .& Supply Chain Dataset Report Slideshow.ppsx
+- 6. Report Finale (Presentazione): Ecommerce Order and Supply Chain Dataset Report Slideshow.ppsx
 
 ### Il dataset utilizzato è disponibile su Kaggle:
 - Nome del dataset: Ecommerce Order & Supply Chain Dataset
