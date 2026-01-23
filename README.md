@@ -16,8 +16,8 @@
 - Assicurarsi di aver installato Python e le librerie specificate nello stack tecnico (Technical Stack) prima di avviare i notebook o gli script presenti nel repository.
 
 ## Technical Stack
-Python
-Core Libraries:
+### Python
+#### Core Libraries:
 - Pandas
 - Numpy
 - Matplotlib
@@ -36,5 +36,5 @@ Core Libraries:
 - Link: https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset
 
 ## Tabella dei contributi
-Data Analyst: Jeannifer Averion
-Email: jeannifer.averion@hotmail.com
+- Data Analyst: Jeannifer Averion
+- Email: jeannifer.averion@hotmail.com
